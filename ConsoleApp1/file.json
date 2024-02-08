@@ -1,0 +1,76 @@
+﻿{
+  "flights": [
+    {
+      "FlightNumber": "AA963",
+      "Airline": "WizAir",
+      "Destination": "Kyiv",
+      "DepartureTime": "2023-06-12T15:33:28",
+      "ArrivalTime": "2023-06-12T17:54:28",
+      "Gate": "A1",
+      "Status": "Boarding",
+      "Duration": "2:21:00",
+      "AircraftType": "Airbus A320",
+      "Terminal": "1"
+    },
+    {
+      "FlightNumber": "AF473",
+      "Airline": "WizAir",
+      "Destination": "Barcelona",
+      "DepartureTime": "2023-08-23T09:14:45",
+      "ArrivalTime": "2023-08-23T16:22:45",
+      "Gate": "A22",
+      "Status": "Boarding",
+      "Duration": "7:08:00",
+      "AircraftType": "AN 148",
+      "Terminal": "2"
+    },
+    {
+      "FlightNumber": "AF474",
+      "Airline": "MAU",
+      "Destination": "Kharkiv",
+      "DepartureTime": "2023-10-12T08:21:13",
+      "ArrivalTime": "2023-10-12T11:01:13",
+      "Gate": "F6",
+      "Status": "Boarding",
+      "Duration": "2:40:00",
+      "AircraftType": "AN 148",
+      "Terminal": "2"
+    },
+    {
+      "FlightNumber": "AF418",
+      "Airline": "MAU",
+      "Destination": "Dnipro",
+      "DepartureTime": "2023-05-19T02:21:51",
+      "ArrivalTime": "2023-05-19T11:20:51",
+      "Gate": "D29",
+      "Status": "InFlight",
+      "Duration": "8:59:00",
+      "AircraftType": "AN 148",
+      "Terminal": "1"
+    },
+    {
+      "FlightNumber": "UA791",
+      "Airline": "Turkish Airlines",
+      "Destination": "Kharkiv",
+      "DepartureTime": "2023-09-22T06:07:54",
+      "ArrivalTime": "2023-09-22T07:08:54",
+      "Gate": "E18",
+      "Status": "Delayed",
+      "Duration": "1:01:00",
+      "AircraftType": "Boeing 787",
+      "Terminal": "2"
+    },
+    {
+      "FlightNumber": "DL206",
+      "Airline": "WizAir",
+      "Destination": "New York",
+      "DepartureTime": "2023-03-22T15:46:53",
+      "ArrivalTime": "2023-03-22T19:30:53",
+      "Gate": "F6",
+      "Status": "InFlight",
+      "Duration": "3:44:00",
+      "AircraftType": "Boeing 737",
+      "Terminal": "1"
+    }
+  ]
+}
